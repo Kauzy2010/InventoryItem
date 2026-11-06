@@ -1,0 +1,14 @@
+c:\Users\lautd\Documents\My Project (TELKOM)\Array\InventoryItem\bin\Debug\net10.0\InventoryItem.exe
+c:\Users\lautd\Documents\My Project (TELKOM)\Array\InventoryItem\bin\Debug\net10.0\InventoryItem.deps.json
+c:\Users\lautd\Documents\My Project (TELKOM)\Array\InventoryItem\bin\Debug\net10.0\InventoryItem.runtimeconfig.json
+c:\Users\lautd\Documents\My Project (TELKOM)\Array\InventoryItem\bin\Debug\net10.0\InventoryItem.dll
+c:\Users\lautd\Documents\My Project (TELKOM)\Array\InventoryItem\bin\Debug\net10.0\InventoryItem.pdb
+c:\Users\lautd\Documents\My Project (TELKOM)\Array\InventoryItem\obj\Debug\net10.0\InventoryItem.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lautd\Documents\My Project (TELKOM)\Array\InventoryItem\obj\Debug\net10.0\InventoryItem.AssemblyInfoInputs.cache
+c:\Users\lautd\Documents\My Project (TELKOM)\Array\InventoryItem\obj\Debug\net10.0\InventoryItem.AssemblyInfo.cs
+c:\Users\lautd\Documents\My Project (TELKOM)\Array\InventoryItem\obj\Debug\net10.0\InventoryItem.csproj.CoreCompileInputs.cache
+c:\Users\lautd\Documents\My Project (TELKOM)\Array\InventoryItem\obj\Debug\net10.0\InventoryItem.dll
+c:\Users\lautd\Documents\My Project (TELKOM)\Array\InventoryItem\obj\Debug\net10.0\refint\InventoryItem.dll
+c:\Users\lautd\Documents\My Project (TELKOM)\Array\InventoryItem\obj\Debug\net10.0\InventoryItem.pdb
+c:\Users\lautd\Documents\My Project (TELKOM)\Array\InventoryItem\obj\Debug\net10.0\InventoryItem.genruntimeconfig.cache
+c:\Users\lautd\Documents\My Project (TELKOM)\Array\InventoryItem\obj\Debug\net10.0\ref\InventoryItem.dll
